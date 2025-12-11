@@ -32,7 +32,7 @@ This notebook demonstrates image-based classification using a Convolutional Neur
 ---
 
 ## 🧠 Assignment 2: Recurrent Neural Network (RNN & LSTM)
-Dataset Link : (https://www.tensorflow.org/datasets/catalog/ag_news_subset)
+Dataset Link : https://www.tensorflow.org/datasets/catalog/ag_news_subset
 
 **File:** `RNN_LSTM_Assignment_2.ipynb`  
 This notebook focuses on sequence modeling using RNN and LSTM layers, typically applied in NLP tasks such as text classification.
